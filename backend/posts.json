@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1789919575390,
+    "userId": 1789918680175,
+    "email": "user2@example.com",
+    "content": "Hello! This is my first post on ConnectHub.",
+    "likes": [
+      1789918680175
+    ],
+    "comments": [
+      {
+        "id": 1789922333632,
+        "userId": 1789918680175,
+        "email": "user2@example.com",
+        "text": "Nice post!",
+        "createdAt": "2026-09-20T16:38:53.634Z"
+      },
+      {
+        "id": 1789922342347,
+        "userId": 1789918680175,
+        "email": "user2@example.com",
+        "text": "nice",
+        "createdAt": "2026-09-20T16:39:02.347Z"
+      }
+    ],
+    "createdAt": "2026-09-20T15:52:55.390Z"
+  }
+]

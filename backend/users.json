@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1789918198100,
+    "name": "Test User",
+    "email": "test@example.com",
+    "password": "$2b$10$aNMXHfIsBNpj6rSaN.W76eihTU2QX5WlZCYk97K2Db.yZ1gEd9R6e",
+    "followers": [
+      1789918680175
+    ]
+  },
+  {
+    "id": 1789918680175,
+    "name": "Keerthana Test",
+    "email": "user2@example.com",
+    "password": "$2b$10$S7fAT0UAHYDN1JseBDDMg.AfYKe4FR2FqMipqZ1127Ah8M6ejaxju",
+    "followers": [],
+    "following": [
+      1789918198100
+    ]
+  }
+]
